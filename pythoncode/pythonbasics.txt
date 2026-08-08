@@ -1,0 +1,50 @@
+git add -add
+git commit -m "message for the push"
+git push
+git status
+
+
+Python Data types
+1. Numberical data types: int, float, complex
+2. Text data types: str --'' ""
+3. Sequestial data types ( Single dimention data types): list, tuples, range
+4. Set data types: Set
+5. Mapping data types: Dictionary - Key : Values pair - Yaml , JSON data formal 
+6. Boolean data types: yes/no , true/false
+7. Binary datatypes: bytes, bytearray, memory view
+
+
+int, float, str, list, range # Mostly used
+
+tuples, dict, bool # rarely used
+
+list = [1,2,3,4]
+tuples = ()
+set = {}
+dictionary = {k:v}
+
+In Build funcations:
+1. input()
+2. print()
+3. help()
+4. range()
+
+Custom funcations:
+
+def f1():
+
+
+python operators
+1. Arithmetic Operators: +, -, *, /, %, **, //
+2. Assignment Operators: =, +=, -=
+3. Comparison Operators: ==, >=, <=, !=, <,>
+4. Logical Operators: and, or, not
+5. membership operators: in, not in
+    a= [1,2,3]
+    print(1 in a) - true or false
+
+
+
+
+
+
